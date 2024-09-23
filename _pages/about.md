@@ -18,8 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi, my name is Jiayue (Melissa) Shi, and I am currently a senior pursuing a B.S. in Computer Science at the University of Illinois Urbana-Champaign. I am working with [Professor Koustuv Saha](https://koustuv.com/) in the [OnCARE (Online and Connected AI Reflections) Lab](https://oncare.cs.illinois.edu/) at UIUC.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests lie at the intersection of human-computer interaction (HCI) and mental health, with a focus on developing innovative technologies to enhance well-being. I am also interested in computational social science, examining how individuals interact with technology and how their perceptions impact mental health care and depression self-management. In particular, I explore the effectiveness and user experience of LLM-powered and AI-based chatbots, investigating their potential to provide personalized support and improve mental health outcomes. My work aims to understand how these technologies can be designed to better meet user needs and integrate seamlessly into existing mental health frameworks.
