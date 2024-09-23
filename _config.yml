@@ -3,7 +3,11 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
+<<<<<<< HEAD
 first_name: Jiayue(Melissa) 
+=======
+first_name: Jiayue(Melissa)
+>>>>>>> b0c7af5e1dcd578355babc3c0f1edd96d86cd481
 middle_name:
 last_name: Shi 
 email: mshi24@illinois.edu
