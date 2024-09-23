@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://illinois.edu/'>University of Illinios Urbana-Champaign</a>. <a href='https://siebelschool.illinois.edu/'>Siebel School of Computing and Data Science</a>.
 
 profile:
   align: right
