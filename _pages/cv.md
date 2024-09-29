@@ -17,7 +17,7 @@ redirect_from:
     <ul>
       <li>B.S. in Computer Science, University of Illinois Urbana-Champaign, 2023-2025</li>
     </ul>
-  </section>
+  </section>    
 
   <!-- Research Section -->
   <section id="research">
