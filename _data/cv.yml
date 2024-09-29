@@ -10,15 +10,19 @@ redirect_from:
 {% include base_path %}
 
 <div class="resume-content">
+  
+  <!-- Education Section -->
   <section id="education">
     <h2>Education</h2>
     <ul>
-      <li>B.S. in University of Illinois Urbana-Champaign, 2023-2025</li>
+      <li>B.S. in Computer Science, University of Illinois Urbana-Champaign, 2023-2025</li>
     </ul>
   </section>
 
+  <!-- Research Section -->
   <section id="research">
     <h2>Research</h2>
+
     <h3>Chatbots for Mental Health Self-Management</h3>
     <p><strong>Duration:</strong> Feb 2024 - Present</p>
     <ul>
@@ -32,18 +36,20 @@ redirect_from:
     <ul>
       <li>Conducted an in-depth literature review to understand caregivers' current mental health issues and their needs, providing a foundation for targeted research.</li>
       <li>Facilitated interviews with caregivers to explore their concerns about mental health categories, followed by qualitative coding of transcriptions to analyze their use of technology in caregiving and mental health management practices.</li>
-      <li>Identified opportunities for enhancing technology to better support caregivers' mental health and caregiving abilities, getting recommendations for future development and application.</li>
+      <li>Identified opportunities for enhancing technology to better support caregivers' mental health and caregiving abilities, gathering recommendations for future development and application.</li>
     </ul>
   </section>
 
+  <!-- Projects Section -->
   <section id="projects">
     <h2>Projects</h2>
+
     <h3>Stock Predict Website</h3>
     <p><strong>Duration:</strong> Jan 2024 - May 2024</p>
     <ul>
       <li>Collaborated with a team to develop a full-stack web application for stock prediction, using Python and Flask for the back-end architecture.</li>
       <li>Led the front-end development, creating intuitive and visually appealing user interfaces with HTML and CSS, which significantly improved user engagement and accessibility.</li>
-      <li>Developed and integrated sophisticated machine learning models using scikit-learn and PyTorch, leveraging PyTrend and YFinance data within SQL databases to enable real-time updates and personalized user plans, while ensuring effective collaboration and project management to deliver a high-quality product.</li>
+      <li>Developed and integrated sophisticated machine learning models using scikit-learn and PyTorch, leveraging PyTrend and YFinance data within SQL databases to enable real-time updates and personalized user plans.</li>
     </ul>
 
     <h3>GPAMAXXING</h3>
@@ -55,8 +61,10 @@ redirect_from:
     </ul>
   </section>
 
+  <!-- Experience Section -->
   <section id="experience">
     <h2>Experience</h2>
+
     <h3>Penn State Association for Computing Machinery Webmaster</h3>
     <p><strong>Duration:</strong> Spring 2023</p>
     <p><strong>Institution:</strong> The Pennsylvania State University</p>
@@ -70,12 +78,13 @@ redirect_from:
     <p><strong>Duration:</strong> Fall 2024</p>
     <p><strong>Institution:</strong> Siebel School of Computing and Data Science</p>
     <ul>
-      <li>Assisted students with in-class group activities</li>
-      <li>Held regular office hours and conducted exam review sessions</li>
-      <li>Updated and maintained course materials on the website</li>
+      <li>Assisted students with in-class group activities.</li>
+      <li>Held regular office hours and conducted exam review sessions.</li>
+      <li>Updated and maintained course materials on the website.</li>
     </ul>
   </section>
 
+  <!-- Technical Skills Section -->
   <section id="technical-skills">
     <h2>Technical Skills</h2>
     <ul>
@@ -85,15 +94,16 @@ redirect_from:
     </ul>
   </section>
 
+  <!-- Extracurricular Section -->
   <section id="extracurricular">
     <h2>College Extracurricular</h2>
     <ul>
-      <li>Received James Scholar at UIUC</li>
-      <li>Engaged with Women in Computer Science Program at UIUC</li>
-      <li>Received recognition on the Dean's List for both freshmen and sophomore years</li>
-      <li>Co-coordinated the EECS Mentor Collective Program</li>
-      <li>Participated in a Multi-Campus Research Experience for Undergraduates program</li>
-      <li>Received the Clark Association Scholarship for Academic Excellence and Community Involvement</li>
+      <li>Received James Scholar at UIUC.</li>
+      <li>Engaged with Women in Computer Science Program at UIUC.</li>
+      <li>Received recognition on the Dean's List for both freshmen and sophomore years.</li>
+      <li>Co-coordinated the EECS Mentor Collective Program.</li>
+      <li>Participated in a Multi-Campus Research Experience for Undergraduates program.</li>
+      <li>Received the Clark Association Scholarship for Academic Excellence and Community Involvement.</li>
     </ul>
   </section>
 </div>
