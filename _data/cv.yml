@@ -1,0 +1,39 @@
+# cv.yml
+
+basics:
+  name: Jiayue (Melissa) Shi
+  label: Computer Science Student
+  email: mshi24@illinois.edu
+  phone: "(408)-505-8387"
+  website: "https://melissashi2002.github.io"
+  summary: |
+    I am currently a senior pursuing a B.S. in Computer Science at the University of Illinois Urbana-Champaign, with a focus on HCI and mental health technologies.
+
+education:
+  - degree: B.S. in Computer Science
+    institution: University of Illinois Urbana-Champaign
+    date: 2023-2025
+
+work:
+  - position: Research Assistant
+    institution: OnCARE Lab, UIUC
+    duration: Feb 2024 - Present
+    details:
+      - Conducted research on LLM-powered chatbots for mental health management.
+      - Designed and developed Zenny, a chatbot for depression self-management.
+
+skills:
+  - Python
+  - Java
+  - C++
+  - SQL
+  - Flask
+  - Git
+
+projects:
+  - name: Stock Predict Website
+    description: Developed a stock prediction website using Flask and integrated ML models.
+    duration: Jan 2024 - May 2024
+  - name: GPAMAXXING
+    description: Built a website for GPA analysis and class scheduling.
+    duration: June 2024 - Aug 2024
