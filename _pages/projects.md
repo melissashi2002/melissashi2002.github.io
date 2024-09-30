@@ -22,11 +22,11 @@ horizontal: false
       <!-- First Research Project -->
       <div class="col mb-4">
         <div class="card">
-          <a href="/projects/1_project.md">
-            <img src="path_to_your_first_research_image.jpg" class="card-img-top" alt="Research Project 1 Image">
+          <a href="/_projects/1_project.md">
+            <img src="assets/img/Zenny3.pdf" class="card-img-top" alt="Research Project 1 Image">
           </a>
           <div class="card-body">
-            <h5 class="card-title">Research Project 1</h5>
+            <h5 class="card-title">Chatbot for Depression Self-Management</h5>
             <p class="card-text">A brief description of the first research project. Mention the goals, key outcomes, or any significant achievements.</p>
           </div>
         </div>
