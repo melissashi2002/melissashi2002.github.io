@@ -31,7 +31,11 @@ Below is the screenshot for Zenny chat page.
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/Mapping (1).png" title="Zenny" class="img-fluid rounded z-depth-1" %}
+        <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Mapping.png" title="Zenny" class="img-fluid rounded z-depth-1" %}
     </div>
+    </div>
+
 </div>
 <div class="caption">
     Zenny Chat Page
