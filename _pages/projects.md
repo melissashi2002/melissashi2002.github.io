@@ -28,7 +28,7 @@ horizontal: false
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
             <h5 class="card-title mb-3" style="font-size: 1.25rem;">Chatbot for Depression Self-Management</h5>
-            <p class="card-text" style="font-size: 1rem; color: #333;">A brief description of the first research project. Mention the goals, key outcomes, or any significant achievements.</p>
+            <p class="card-text" style="font-size: 1rem; color: #333;">This project aimed to develop Zenny, an LLM-powered chatbot for depression self-management, enhancing NLP capabilities via OpenAI’s API. Key outcomes included improved user retention and personalized mental health support. Significant achievements were participant interviews and feedback analysis to refine chatbot responses​.</p>
           </div>
         </div>
       </div>
@@ -43,7 +43,7 @@ horizontal: false
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
             <h5 class="card-title mb-3" style="font-size: 1.25rem;">Technology Needs and Practices of Family Caregivers for Mental Wellbeing</h5>
-            <p class="card-text" style="font-size: 1rem; color: #333;">A brief description of the second research project. Highlight the objectives, methods, or findings.</p>
+            <p class="card-text" style="font-size: 1rem; color: #333;">This project focused on exploring mental health challenges among caregivers through interviews and qualitative coding. Key outcomes included identifying caregivers' concerns and needs, with thematic analysis highlighting patterns to inform support strategies.​</p>
           </div>
         </div>
       </div>
@@ -63,8 +63,8 @@ horizontal: false
           </a>
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
-            <h5 class="card-title mb-3" style="font-size: 1.25rem;">Course Project 1</h5>
-            <p class="card-text" style="font-size: 1rem; color: #333;">A brief description of the first course project. Highlight the key concepts, technologies, or skills developed.</p>
+            <h5 class="card-title mb-3" style="font-size: 1.25rem;">Stock Predict Website</h5>
+            <p class="card-text" style="font-size: 1rem; color: #333;">The stock prediction website project involved building a full-stack application using Flask, Python, and PyTorch. It integrated machine learning models to predict stock trends, with a focus on creating responsive user interfaces and optimizing performance and user engagement​</p>
           </div>
         </div>
       </div>
@@ -78,8 +78,8 @@ horizontal: false
           </a>
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
-            <h5 class="card-title mb-3" style="font-size: 1.25rem;">Course Project 2</h5>
-            <p class="card-text" style="font-size: 1rem; color: #333;">A brief description of the second course project. Focus on the technical aspects or unique challenges faced during the course.</p>
+            <h5 class="card-title mb-3" style="font-size: 1.25rem;">GPAMAXXING</h5>
+            <p class="card-text" style="font-size: 1rem; color: #333;">The GPAMAXXING developed a GPA management system with real-time calendar tracking, dynamic class management, and interactive data visualizations to help students track GPA trends and make informed academic decisions​</p>
           </div>
         </div>
       </div>
