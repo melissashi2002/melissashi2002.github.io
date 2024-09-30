@@ -37,10 +37,4 @@ Below is the screenshot for Zenny chat page.
     Zenny Chat Page
 </div>
 
-{% comment %}
-{% raw %}
 
-
-
-{% endraw %}
-{% end comment %}

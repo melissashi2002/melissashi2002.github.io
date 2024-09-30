@@ -1,19 +1,18 @@
 ---
 layout: page
-title: Technology Needs and Practices of Family Caregivers for Mental Wellbeing
-#description: a project with a background image and giscus comments
+title: project 2
+description: a project with a background image and giscus comments
 img: assets/img/3.jpg
 importance: 2
-category: research
+category: work
 giscus_comments: true
 ---
 
-Recognizing the critical role that caregivers play, this research seeks to identify the unique challenges they face, the current
-practices they employ to manage their mental well-being, and the technologies they use for mental health support. Through a
-series of in-depth interviews, we will gather insights into caregivers' mental well-being needs and current practices to cope with
-mental well-being concerns. Additionally, the study will examine caregivers' perceptions and reactions to an envisioned AI-driven
-chatbot designed to provide mental health support. The findings will contribute to a better understanding of caregiver mental
-health needs and inform the development of effective support tools and interventions.
+Every project has a beautiful feature showcase page.
+It's easy to include images in a flexible 3-column grid format.
+Make your photos 1/3, 2/3, or full width.
+
+To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
@@ -21,13 +20,6 @@ health needs and inform the development of effective support tools and intervent
     description: a project with a background image
     img: /assets/img/12.jpg
     ---
-
-#RQ1:What are AD/ADRD family caregivers’ needs and concerns with respect to mental wellbeing?
-
-#RQ2:  What are the current practices that AD/ADRD family caregivers adopt to address their mental wellbeing needs? 
-
-#RQ3: What are the current technologies that AD/ADRD family caregivers adopt to address their mental wellbeing needs?
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -73,11 +65,17 @@ Just wrap your images with `<div class="col-sm">` and place them inside `<div cl
 To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
 Here's the code for the last row of images above:
 
-
-{% comment %}
 {% raw %}
 
-
+```html
+<div class="row justify-content-sm-center">
+  <div class="col-sm-8 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm-4 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+```
 
 {% endraw %}
-{% end comment %}
