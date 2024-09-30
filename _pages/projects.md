@@ -22,7 +22,7 @@ horizontal: false
       <!-- First Research Project -->
       <div class="col mb-4">
         <div class="card">
-          <a href="/_projects/1_project.md">
+          <a href="/_projects/1_project">
             <img src="assets/img/Zenny3.pdf" class="card-img-top" alt="Research Project 1 Image">
           </a>
           <div class="card-body">
