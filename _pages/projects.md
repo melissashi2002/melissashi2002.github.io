@@ -28,7 +28,7 @@ horizontal: false
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
             <h5 class="card-title mb-3" style="font-size: 1.25rem;">Chatbot for Depression Self-Management</h5>
-            <p class="card-text" style="font-size: 1rem; color: #333; margin-bottom: 0;">A brief description of the first research project. Mention the goals, key outcomes, or any significant achievements.</p>
+            <p class="card-text" style="font-size: 1rem; color: #333; margin-bottom: 2;">A brief description of the first research project. Mention the goals, key outcomes, or any significant achievements.</p>
           </div>
         </div>
       </div>
@@ -43,7 +43,7 @@ horizontal: false
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
             <h5 class="card-title mb-3" style="font-size: 1.25rem;">Research Project 2</h5>
-            <p class="card-text" style="font-size: 1rem; color: #333; margin-bottom: 0;">A brief description of the second research project. Highlight the objectives, methods, or findings.</p>
+            <p class="card-text" style="font-size: 1rem; color: #333; margin-bottom: 2;">A brief description of the second research project. Highlight the objectives, methods, or findings.</p>
           </div>
         </div>
       </div>
@@ -64,7 +64,7 @@ horizontal: false
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
             <h5 class="card-title mb-3" style="font-size: 1.25rem;">Course Project 1</h5>
-            <p class="card-text" style="font-size: 1rem; color: #333; margin-bottom: 0;">A brief description of the first course project. Highlight the key concepts, technologies, or skills developed.</p>
+            <p class="card-text" style="font-size: 1rem; color: #333; margin-bottom: 2;">A brief description of the first course project. Highlight the key concepts, technologies, or skills developed.</p>
           </div>
         </div>
       </div>
@@ -79,7 +79,7 @@ horizontal: false
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
             <h5 class="card-title mb-3" style="font-size: 1.25rem;">Course Project 2</h5>
-            <p class="card-text" style="font-size: 1rem; color: #333; margin-bottom: 0;">A brief description of the second course project. Focus on the technical aspects or unique challenges faced during the course.</p>
+            <p class="card-text" style="font-size: 1rem; color: #333; margin-bottom: 2;">A brief description of the second course project. Focus on the technical aspects or unique challenges faced during the course.</p>
           </div>
         </div>
       </div>
