@@ -103,7 +103,8 @@ horizontal: false
   - Conducted qualitative analysis on user interactions to improve chatbot capabilities.
 
 
-![Chatbot Experiment](/assets/img/Zenny.jpg)
+
+<img src="/assets/img/Zenny.jpg" alt="Chatbot Experiment" style="width:70%; height:auto;">
 
 ---
 
