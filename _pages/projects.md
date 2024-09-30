@@ -22,8 +22,8 @@ horizontal: false
       <!-- First Research Project -->
       <div class="col mb-4">
         <div class="card">
-          <a href="/_projects/1_project.html">
-            <img src="/assets/img/Zenny1.png" class="card-img-top" alt="Research Project 1 Image">
+          <a href="/_includes/_projects/1_project.html">
+            <img src="/assets/img/Zenny1.png" class="card-img-top" alt="Research Project 1 Image" style="width: 100%; height: auto;">
           </a>
           <div class="card-body">
             <h5 class="card-title">Chatbot for Depression Self-Management</h5>
