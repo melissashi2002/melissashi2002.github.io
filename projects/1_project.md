@@ -30,7 +30,7 @@ Below is the screenshot for Zenny chat page.
         {% include figure.liquid path="assets/img/Chat.png" title="Chat Page" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/Mapping (1).png" title="Zenny" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
