@@ -38,11 +38,11 @@ horizontal: false
         <div class="d-flex align-items-center project-card p-4 shadow-sm" style="border: 1px solid #ddd; border-radius: 8px; background-color: #fff;">
           <!-- Image on the left -->
           <a href="project_2.html" class="me-5" style="flex-shrink: 0;">
-            <img src="/assets/img/your_second_image.png" class="img-fluid" alt="Research Project 2 Image" style="width: 200px; height: auto; border-radius: 5px;">
+            <img src="/assets/img/caregiver.png" class="img-fluid" alt="Research Project 2 Image" style="width: 200px; height: auto; border-radius: 5px;">
           </a>
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
-            <h5 class="card-title mb-3" style="font-size: 1.25rem;">Research Project 2</h5>
+            <h5 class="card-title mb-3" style="font-size: 1.25rem;">Technology Needs and Practices of Family Caregivers for Mental Wellbeing</h5>
             <p class="card-text" style="font-size: 1rem; color: #333;">A brief description of the second research project. Highlight the objectives, methods, or findings.</p>
           </div>
         </div>
