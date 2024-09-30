@@ -103,7 +103,7 @@ horizontal: false
   - Conducted qualitative analysis on user interactions to improve chatbot capabilities.
 
 
-![Chatbot Experiment](/assets/img/ARCHES_Poster_Zenny_54x36.jpg)
+![Chatbot Experiment](/assets/img/Zenny.jpg)
 
 ---
 
