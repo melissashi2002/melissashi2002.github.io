@@ -5,7 +5,7 @@ permalink: /projects/
 #description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [research, course]
 horizontal: false
 ---
 {%- comment -%}
@@ -65,7 +65,7 @@ horizontal: false
 </div>
 {%- endcomment -%}
 
-## Work Projects
+## Research Projects
 
 ### Stock Predict Website
 - **Duration**: Jan 2024 - May 2024
@@ -74,7 +74,7 @@ horizontal: false
   - Led front-end development with HTML and CSS, significantly improving user engagement.
   - Integrated machine learning models with scikit-learn and PyTorch for real-time updates and personalized user plans.
 
-![Stock Predict Website](path/to/image/stock_predict_website.jpg)
+
 
 ### GPAMAXXING
 - **Duration**: June 2024 - Aug 2024
@@ -86,7 +86,7 @@ horizontal: false
 
 ---
 
-## Fun Projects
+## Course Projects
 
 ### Cool Side Project
 - **Duration**: March 2024
@@ -102,7 +102,8 @@ horizontal: false
   - Developed a chatbot using OpenAI's API to provide personalized responses for mental health self-management.
   - Conducted qualitative analysis on user interactions to improve chatbot capabilities.
 
-![Chatbot Experiment](assets/img/ARCHES Poster Zenny 54x36.pptx.jpg)
+
+![Chatbot Experiment](/assets/img/ARCHES_Poster_Zenny_54x36.jpg)
 
 ---
 
