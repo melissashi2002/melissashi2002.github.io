@@ -22,7 +22,7 @@ horizontal: false
       <div class="col-12 mb-4">
         <div class="d-flex align-items-center project-card p-3 shadow-sm" style="border: 1px solid #ddd; border-radius: 8px; background-color: #fff;">
           <!-- Image on the left -->
-          <a href="project_1.html" class="me-4">
+          <a href="1_project.md" class="me-4">
             <img src="/assets/img/Zenny1.png" class="img-fluid" alt="Research Project 1 Image" style="width: 200px; height: auto; border-radius: 5px;">
           </a>
           <!-- Text on the right -->
