@@ -12,7 +12,6 @@ horizontal: false
 
 
 <!-- pages/projects.md -->
-<!-- pages/projects.md -->
 <div class="projects">
 
   <!-- Research Projects Section -->
