@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: CV
+title: cv
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf
@@ -9,24 +9,27 @@ cv_pdf: example_pdf.pdf
 toc:
   sidebar: left
 ---
+---
+layout: about
+title: about
+permalink: /
+subtitle: <a href='https://illinois.edu/'>University of Illinios Urbana-Champaign</a>. <a href='https://siebelschool.illinois.edu/'>Siebel School of Computing and Data Science</a>.
 
-## Education
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>Phone: (408)-505-8387</p>
+    <p><a href='https://outlook.office.com/mail/'>Email: mshi24@illinois.edu</a></p>
+ 
 
-**B.S. in Computer Science**  
-University of Illinois Urbana-Champaign (2023 - 2025)  
-GPA: 3.8/4.0
+news: true # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
+---
 
-## Research
 
-### Chatbots for Mental Health Self-Management  
-*Feb 2024 - Present*  
-- Designed and developed Zenny, an LLM-powered chatbot tailored for depression self-management.
-- Facilitated interviews with participants to explore their interactions with Zenny and analyze feedback.
+Hi, my name is Jiayue (Melissa) Shi, and I am currently a senior pursuing a B.S. in Computer Science at the University of Illinois Urbana-Champaign. I am working with [Professor Koustuv Saha](https://koustuv.com/) in the [OnCARE (Online and Connected AI Reflections) Lab](https://oncare.cs.illinois.edu/) at UIUC.
 
-## Projects
-
-### Stock Predict Website  
-*Jan 2024 - May 2024*  
-- Developed a full-stack web application for stock prediction using Python and Flask.
-
-[Download CV as PDF](assets/pdf/example_pdf.pdf)
+My research interests lie at the intersection of human-computer interaction (HCI) and mental health, with a focus on developing innovative technologies to enhance well-being. I am also interested in computational social science, examining how individuals interact with technology and how their perceptions impact mental health care and depression self-management. In particular, I explore the effectiveness and user experience of LLM-powered and AI-based chatbots, investigating their potential to provide personalized support and improve mental health outcomes. My work aims to understand how these technologies can be designed to better meet user needs and integrate seamlessly into existing mental health frameworks.
