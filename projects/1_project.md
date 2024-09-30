@@ -25,17 +25,19 @@ The chatbot research project involved developing Zenny, an LLM-powered chatbot f
 
 Below is the screenshot for Zenny chat page. 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Chat.png" title="Chat Page" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Mapping (1).png" title="Zenny" class="img-fluid rounded z-depth-1" %}
-        <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Mapping.png" title="Zenny" class="img-fluid rounded z-depth-1" %}
-    </div>
-    </div>
-
+<div class="row justify-content-center">
+  <!-- First Image: Full-width on small screens, half-width on larger screens -->
+  <div class="col-12 col-md-6 mt-3">
+    {% include figure.liquid path="assets/img/Chat.png" title="Chat Page" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <!-- Second Image: Half-width on all screen sizes -->
+  <div class="col-6 col-md-3 mt-3">
+    {% include figure.liquid path="assets/img/Mapping (1).png" title="Zenny" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <!-- Third Image: Half-width on all screen sizes -->
+  <div class="col-6 col-md-3 mt-3">
+    {% include figure.liquid path="assets/img/Mapping.png" title="Zenny" class="img-fluid rounded z-depth-1" %}
+  </div>
 </div>
 <div class="caption">
     Zenny Chat Page
