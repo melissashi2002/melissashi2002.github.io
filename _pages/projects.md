@@ -10,57 +10,73 @@ horizontal: false
 ---
 
 
+
+<!-- pages/projects.md -->
 <!-- pages/projects.md -->
 <div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
+
+  <!-- Research Projects Section -->
+  <h2 class="category">Research Projects</h2>
   <div class="container">
     <div class="row row-cols-1">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
+      <!-- First Research Project -->
+      <div class="col mb-4">
+        <div class="card">
+          <a href="/projects/1_project.md">
+            <img src="path_to_your_first_research_image.jpg" class="card-img-top" alt="Research Project 1 Image">
+          </a>
+          <div class="card-body">
+            <h5 class="card-title">Research Project 1</h5>
+            <p class="card-text">A brief description of the first research project. Mention the goals, key outcomes, or any significant achievements.</p>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Second Research Project -->
+      <div class="col mb-4">
+        <div class="card">
+          <a href="/projects/2_project.md">
+            <img src="path_to_your_second_research_image.jpg" class="card-img-top" alt="Research Project 2 Image">
+          </a>
+          <div class="card-body">
+            <h5 class="card-title">Research Project 2</h5>
+            <p class="card-text">A brief description of the second research project. Highlight the objectives, methods, or findings.</p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-  {% else %}
-  <div class="row row-cols-1">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
 
-{% else %}
-
-<!-- Display projects without categories -->
-
-{% assign sorted_projects = site.projects | sort: "importance" %}
-
-  <!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
+  <!-- Course Projects Section -->
+  <h2 class="category">Course Projects</h2>
   <div class="container">
     <div class="row row-cols-1">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
+      <!-- First Course Project -->
+      <div class="col mb-4">
+        <div class="card">
+          <a href="/projects/3_project.md">
+            <img src="path_to_your_first_course_image.jpg" class="card-img-top" alt="Course Project 1 Image">
+          </a>
+          <div class="card-body">
+            <h5 class="card-title">Course Project 1</h5>
+            <p class="card-text">A brief description of the first course project. Highlight the key concepts, technologies, or skills developed.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Second Course Project -->
+      <div class="col mb-4">
+        <div class="card">
+          <a href="/projects/4_project.md">
+            <img src="path_to_your_second_course_image.jpg" class="card-img-top" alt="Course Project 2 Image">
+          </a>
+          <div class="card-body">
+            <h5 class="card-title">Course Project 2</h5>
+            <p class="card-text">A brief description of the second course project. Focus on the technical aspects or unique challenges faced during the course.</p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-  {% else %}
-  <div class="row row-cols-1">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
+  
 </div>
