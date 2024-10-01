@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Chatbot for Slef-Management Depression
+title: AI Chatbots for Mental Health Self-Management: Charting the Potential Harms
+of LLMs through Values of People with Lived Experiences
 #description: with background image
 img: assets/img/Zenny.jpg
 importance: 1
@@ -29,10 +30,6 @@ Below is the screenshot for Zenny chat page.
   <!-- First Image: Full-width on small screens, half-width on larger screens -->
   <div class="col-12 col-md-6 mt-3">
     {% include figure.liquid path="assets/img/Chat.png" title="Chat Page" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <!-- Second Image: Half-width on all screen sizes -->
-  <div class="col-6 col-md-3 mt-3">
-    {% include figure.liquid path="assets/img/Mapping (1).png" title="Zenny" class="img-fluid rounded z-depth-1" %}
   </div>
   <!-- Third Image: Half-width on all screen sizes -->
   <div class="col-6 col-md-3 mt-3">
