@@ -5,6 +5,7 @@ title: GPAMAXXING
 img: assets/img/gpa.png
 #importance: 3
 category: course
+related_publications: false
 ---
 
 

@@ -5,7 +5,7 @@ title: Stock Predict Website
 img: assets/img/stock.jpg
 importance: 1
 category: course
-related_publications: true
+related_publications: false
 ---
 
 

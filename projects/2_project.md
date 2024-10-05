@@ -5,6 +5,7 @@ title: Stock Predict Website
 img: assets/img/gpa.png
 #importance: 3
 category: course
+related_publications: false
 ---
 
 

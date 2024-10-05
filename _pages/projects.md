@@ -28,7 +28,7 @@ horizontal: false
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
             <h5 class="card-title mb-3" style="font-size: 1.25rem;">AI Chatbots for Mental Health Self-Management: Charting the Potential Harms of LLMs through Values of People with Lived Experiences</h5>
-            <p class="card-text" style="font-size: 1rem; color: #333;">This project aimed to develop Zenny, an LLM-powered chatbot for depression self-management, enhancing NLP capabilities via OpenAI’s API. Key outcomes included improved user retention and personalized mental health support. Significant achievements were participant interviews and feedback analysis to refine chatbot responses​.</p>
+            <p class="card-text" style="font-size: 1rem; color: #333;">Advances in LLMs have enabled chatbots to handle mental health queries, raising concerns about effectiveness and risks. This study examines how a GPT-4 chatbot, Zenny, supports individuals with depression, highlighting key values for safer AI mental health tools.</p>
           </div>
         </div>
       </div>
