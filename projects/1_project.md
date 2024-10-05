@@ -8,7 +8,7 @@ category: research
 related_publications: true
 ---
 
-The chatbot research project involved developing Zenny, an LLM-powered chatbot for depression self-management. The project, conducted from February to September 2024, utilized OpenAI's API to enhance the chatbot’s natural language processing (NLP) capabilities. The goal was to provide personalized mental health support while maintaining user retention. The project also involved conducting participant interviews to explore user interactions with the chatbot and analyzing the feedback using qualitative coding to refine and improve its responses
+Recent advancements in large language models (LLMs) have enabled chatbots to address a wide range of queries, including sensitive mental health contexts. Despite concerns about their effectiveness and potential harms, the use of LLMs in this domain is expanding. To better identify and mitigate these risks, it is essential to understand how the values of individuals with lived experiences relate to these harms. In this study, we developed a GPT-4-powered chatbot, Zenny, to engage 17 participants with lived experiences of depression in self-management scenarios. Our thematic analysis revealed five key values: informational support, emotional support, personalization, privacy, and crisis management. These findings offer design recommendations for AI-based chatbots to support mental health self-management while minimizing risks.
 
 
 
@@ -18,26 +18,24 @@ The chatbot research project involved developing Zenny, an LLM-powered chatbot f
     </div>
 </div>
 <div class="caption">
-    This is a poster will be presented on the 11th Annual Jump ARCHES Symposium
+    This poster will be presented at the <a href="https://calendars.illinois.edu/detail/7?eventId=33494779">11th Annual Jump ARCHES Symposium</a>.
 </div>
 
 
 
-Below is the screenshot for Zenny chat page. 
 
 <div class="row justify-content-center">
   <!-- First Image: Full-width on small screens, half-width on larger screens -->
   <div class="col-12 col-md-6 mt-3">
-    {% include figure.liquid path="assets/img/Chat.png" title="Chat Page" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/Chat.png" title="Chat Page" alt="Screenshot of Zenny's chat page" class="img-fluid rounded z-depth-1" %}
   </div>
-  <!-- Second Image: Half-width on all screen sizes -->
-  <!-- Third Image: Half-width on all screen sizes -->
+  <!-- Second Image: Half-width on larger screens -->
   <div class="col-12 col-md-6 mt-3">
-    {% include figure.liquid path="assets/img/Mapping.png" title="Zenny" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/Mapping.png" title="Mapping Findings" alt="Mapping of research findings from Zenny chat" class="img-fluid rounded z-depth-1" %}
   </div>
-</div>
-<div class="caption">
-    Zenny Chat Page
 </div>
 
+<div class="caption">
+    Zenny Chat Page (left) and Findings Mapping (right)
+</div>
 
