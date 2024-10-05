@@ -2,9 +2,10 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+#description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
 
-UIUC CS 233 Computer Architecture Course Assistant
+UIUC CS 233 Computer Architecture Course Assistant \\
+Instructor: [Craig Zilles](https://zilles.cs.illinois.edu/)
