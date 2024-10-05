@@ -5,7 +5,7 @@ title: AI Chatbots for Mental Health Self-Management Charting the Potential Harm
 img: assets/img/Zenny.jpg
 importance: 1
 category: research
-related_publications: true
+related_publications: false
 ---
 
 Recent advancements in large language models (LLMs) have enabled chatbots to address a wide range of queries, including sensitive mental health contexts. Despite concerns about their effectiveness and potential harms, the use of LLMs in this domain is expanding. To better identify and mitigate these risks, it is essential to understand how the values of individuals with lived experiences relate to these harms. In this study, we developed a GPT-4-powered chatbot, Zenny, to engage 17 participants with lived experiences of depression in self-management scenarios. Our thematic analysis revealed five key values: informational support, emotional support, personalization, privacy, and crisis management. These findings offer design recommendations for AI-based chatbots to support mental health self-management while minimizing risks.

@@ -19,6 +19,6 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-Hi, my name is Jiayue (Melissa) Shi, and I am currently a senior pursuing a B.S. in Computer Science at the University of Illinois Urbana-Champaign. I am working with [Professor Koustuv Saha](https://koustuv.com/) in the [OnCARE (Online and Connected AI Reflections) Lab](https://oncare.cs.illinois.edu/) at UIUC.
+Hi, my name is Jiayue (Melissa) Shi ✨时佳玥✨, and I am currently a senior pursuing a B.S. in Computer Science at the University of Illinois Urbana-Champaign. I am working with [Professor Koustuv Saha](https://koustuv.com/) in the [OnCARE (Online and Connected AI Reflections) Lab](https://oncare.cs.illinois.edu/) at UIUC.
 
 My research interests lie at the intersection of human-computer interaction (HCI) and mental health, with a focus on developing innovative technologies to enhance well-being. I am also interested in computational social science, examining how individuals interact with technology and how their perceptions impact mental health care and depression self-management. In particular, I explore the effectiveness and user experience of LLM-powered and AI-based chatbots, investigating their potential to provide personalized support and improve mental health outcomes. My work aims to understand how these technologies can be designed to better meet user needs and integrate seamlessly into existing mental health frameworks.
