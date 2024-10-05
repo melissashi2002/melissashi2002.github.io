@@ -20,18 +20,20 @@ horizontal: false
     <div class="row mb-4">
       <!-- First Research Project -->
       <div class="col-12 mb-4">
+      <a href="1_project" class="d-block" style="text-decoration: none; color: inherit;">
         <div class="d-flex align-items-center project-card p-4 shadow-sm" style="border: 1px solid #ddd; border-radius: 8px; background-color: #fff;">
           <!-- Image on the left -->
-          <a href="1_project" class="me-5" style="flex-shrink: 0;">
+          <div class="me-5" style="flex-shrink: 0;">
             <img src="/assets/img/Zenny1.png" class="img-fluid" alt="Research Project 1 Image" style="width: 200px; height: auto; border-radius: 5px; margin-right: 40px;">
-          </a>
+          </div>
           <!-- Text on the right -->
           <div style="flex-grow: 1;">
             <h5 class="card-title mb-3" style="font-size: 1.25rem;">AI Chatbots for Mental Health Self-Management: Charting the Potential Harms of LLMs through Values of People with Lived Experiences</h5>
             <p class="card-text" style="font-size: 1rem; color: #333;">Advances in LLMs have enabled chatbots to handle mental health queries, raising concerns about effectiveness and risks. This study examines how a GPT-4 chatbot, Zenny, supports individuals with depression, highlighting key values for safer AI mental health tools.</p>
           </div>
         </div>
-      </div>
+    </a>
+</div>
       
       <!-- Second Research Project -->
       <div class="col-12 mb-4">
