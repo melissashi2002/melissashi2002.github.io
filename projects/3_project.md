@@ -9,6 +9,6 @@ related_publications: false
 ---
 
 
-Will be uptaed soon! ✨
+Will be updated soon! ✨
 
 
