@@ -55,11 +55,11 @@ horizontal: false
 
       <!-- Third Research Project -->
       <div class="col-12 mb-4">
-        <a href="2_project" class="d-block" style="text-decoration: none; color: inherit;">
+        <a href="6_project" class="d-block" style="text-decoration: none; color: inherit;">
           <div class="d-flex align-items-center project-card p-4 shadow-sm" style="border: 1px solid #ddd; border-radius: 8px; background-color: #fff;">
             <!-- Image on the left -->
             <div class="me-5" style="flex-shrink: 0;">
-              <img src="/assets/img/caregiver.png" class="img-fluid" alt="Research Project 2 Image" style="width: 200px; height: auto; border-radius: 5px; margin-right: 40px;">
+              <img src="/assets/img/AI-Chatbot.png" class="img-fluid" alt="Research Project 3 Image" style="width: 200px; height: auto; border-radius: 5px; margin-right: 40px;">
             </div>
             <!-- Text on the right -->
             <div style="flex-grow: 1;">
@@ -72,11 +72,11 @@ horizontal: false
 
       <!-- Fourth Research Project -->
       <div class="col-12 mb-4">
-        <a href="2_project" class="d-block" style="text-decoration: none; color: inherit;">
+        <a href="7_project" class="d-block" style="text-decoration: none; color: inherit;">
           <div class="d-flex align-items-center project-card p-4 shadow-sm" style="border: 1px solid #ddd; border-radius: 8px; background-color: #fff;">
             <!-- Image on the left -->
             <div class="me-5" style="flex-shrink: 0;">
-              <img src="/assets/img/caregiver.png" class="img-fluid" alt="Research Project 2 Image" style="width: 200px; height: auto; border-radius: 5px; margin-right: 40px;">
+              <img src="/assets/img/Heatmap_NASDAQ.jpg" class="img-fluid" alt="Research Project 4 Image" style="width: 200px; height: auto; border-radius: 5px; margin-right: 40px;">
             </div>
             <!-- Text on the right -->
             <div style="flex-grow: 1;">
