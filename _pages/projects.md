@@ -51,6 +51,24 @@ horizontal: false
           </div>
         </a>
       </div>
+
+
+      <!-- Third Research Project -->
+      <div class="col-12 mb-4">
+        <a href="2_project" class="d-block" style="text-decoration: none; color: inherit;">
+          <div class="d-flex align-items-center project-card p-4 shadow-sm" style="border: 1px solid #ddd; border-radius: 8px; background-color: #fff;">
+            <!-- Image on the left -->
+            <div class="me-5" style="flex-shrink: 0;">
+              <img src="/assets/img/caregiver.png" class="img-fluid" alt="Research Project 2 Image" style="width: 200px; height: auto; border-radius: 5px; margin-right: 40px;">
+            </div>
+            <!-- Text on the right -->
+            <div style="flex-grow: 1;">
+              <h5 class="card-title mb-3" style="font-size: 1.25rem;">AI Chatbots for Caregivers’ Mental Wellbeing: Understanding the Needs, Desires, and Concerns of Alzheimer’s and Dementia Caregivers</h5>
+              <p class="card-text" style="font-size: 1rem; color: #333;">We will use the scenarios-based on the 8 major identified concerns from the literature and the improvements proposed by the participant in the first phase, design a chatbot for caregivers’ mental health. Based on the literature and findings from the first phase, this would help understand caregivers’ needs, build a more robust and safe tool, and conduct field deployment and speculative design workshops. ​</p>
+            </div>
+          </div>
+        </a>
+      </div>
     </div>
   </div>
   
