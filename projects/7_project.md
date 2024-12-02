@@ -15,7 +15,7 @@ The interaction of economic instability and mental health in the tech company ha
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/plot_Inflation.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/CS598_RP5_poster.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
