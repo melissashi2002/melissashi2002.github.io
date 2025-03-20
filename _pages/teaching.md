@@ -11,6 +11,6 @@ nav_order: 6
 Fall 2024 & Spring 2025  
 Instructor: [Craig Zilles](https://zilles.cs.illinois.edu/)
 
-**UIUC CS 411 Database Systems**  
+**UIUC CS 411 [Database Systems](https://alawini.web.illinois.edu/teaching/database-systems/)**   
 Spring 2025  
-Instructor: [Abdussalam Alawini](https://alawini.web.illinois.edu/teaching/database-systems/)
+Instructor: Abdussalam Alawini
