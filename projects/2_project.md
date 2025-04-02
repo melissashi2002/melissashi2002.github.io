@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Technology Needs and Practices of Family Caregivers for Mental Wellbeing
+title: Balancing Caregiving and Self-Care: Exploring Mental Health Needs of Alzheimer’s and Dementia Caregivers
 #description: another without an image
 img: assets/img/gpa.png
 #importance: 3

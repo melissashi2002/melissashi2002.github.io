@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI Chatbots for Caregivers’ Mental Wellbeing - Understanding the Needs, Desires, and Concerns of Alzheimer’s and Dementia Caregivers
+title: Is AI a Tool or a Companion? Desires and Concerns of Alzheimer’s Caregivers for a Chatbot for Wellbeing Support
 #description: with background image
 #img: assets/img/Zenny.jpg
 importance: 1
