@@ -6,11 +6,15 @@ title: Teaching
 nav: true
 nav_order: 6
 ---
+**UIUC CS 411 [Database Systems](https://alawini.web.illinois.edu/teaching/database-systems/)** Teaching Assistant  
+Fall 2025  
+Instructor: Prof. Abdussalam Alawini
 
 **UIUC CS 233 Computer Architecture Course Assistant**  
 Fall 2024 & Spring 2025  
-Instructor: [Craig Zilles](https://zilles.cs.illinois.edu/)
+Instructor: Prof. [Craig Zilles](https://zilles.cs.illinois.edu/)
 
-**UIUC CS 411 [Database Systems](https://alawini.web.illinois.edu/teaching/database-systems/)**   
+**UIUC CS 411 [Database Systems](https://alawini.web.illinois.edu/teaching/database-systems/)** Course Assistant  
 Spring 2025  
-Instructor: Abdussalam Alawini
+Instructor: Prof. Abdussalam Alawini
+
