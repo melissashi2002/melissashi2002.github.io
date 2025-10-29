@@ -1,8 +1,11 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+title: "Paper accepted to CSCW 2025"
+date: 2025-10-29 12:00:00 -0500
+author: Jiayue Melissa Shi
+excerpt: "My paper was accepted to CSCW 2025."
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Excited — my paper was accepted to [CSCW 2025](https://cscw.acm.org/2025/).
