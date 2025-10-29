@@ -38,6 +38,10 @@ layout: default
       </div>
     {% endif %}
 
+    {% if page.news %}
+      {% include news.liquid %}
+    {% endif %}
+
     <div class="clearfix">{{ content }}</div>
 
     
