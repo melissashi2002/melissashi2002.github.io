@@ -230,6 +230,9 @@ kramdown:
       line_numbers: false
       start_line: 1
 
+# Publish future-dated items (ensures news with today/near-future date show up)
+future: true
+
 # Includes & excludes
 include: ["_pages"]
 exclude:
