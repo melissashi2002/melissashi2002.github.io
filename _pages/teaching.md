@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 **UIUC CS 411 [Database Systems](https://alawini.web.illinois.edu/teaching/database-systems/)** Teaching Assistant  
-Fall 2025  
+Fall 2025 & Spring 2026
 Instructor: Prof. Abdussalam Alawini
 
 **UIUC CS 233 Computer Architecture Course Assistant**  
