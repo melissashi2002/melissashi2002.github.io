@@ -6,9 +6,10 @@ subtitle: <a href='https://illinois.edu/'>University of Illinios Urbana-Champaig
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Melissa.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p style="font-size: 0.8rem; font-style: italic; color: var(--global-text-color-light);">📸 Taken in my favorite place in the world: Hong Kong 🌊✨</p>
     <p>Phone: (408)-505-8387</p>
     <p><a href='mailto:mshi24@illinois.edu'>Email: mshi24@illinois.edu</a></p>
     <p style="font-size: 1.4rem;">
